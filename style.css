@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
   h1{
   font-size:70px;
   text-align: center;
@@ -45,7 +46,7 @@
   #subtitle{
    color: rgb(66, 96, 136);
    font-size: 40px;
-   font-family: 'Nanum Pen Script', cursive;
+   font-family: 'Nanum Pen Script', serif;
   }
   #textcolor{
     color: white;
